@@ -115,7 +115,7 @@ and open the template in the editor.
               <input class="btn btn-primary" value="Actualizar" type="submit">
             <span></span>
             <input class="btn btn-default" value="Cancel" type="reset">
-            <input class="btn btn-primary" value="Cerrar sesión" type="submit">
+            <input class="btn btn-primary" value="Cerrar sesión" type="button">
           </div>
         </div>
       </form>
